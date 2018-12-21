@@ -1,0 +1,26 @@
+body {
+	font-family: 'Text Me One', sans-serif;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#label{
+	font-weight: bold;
+	color: #FF3EFE ;
+}
+
+#input{
+	color: #FF3E19;
+}
+
+#submit{
+	font-family: 'Text Me One', sans-serif;
+	border: 2px solid blue;
+	padding: 5px 10px;
+}
+
+#output_box{
+	font-style: italic;
+	color: #FF3E19;
+	font-style: bold;
+}
